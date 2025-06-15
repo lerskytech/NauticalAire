@@ -1,9 +1,9 @@
 /* Base Styles */
 :root {
-  --background-color: #f6f1e8;
-  --text-color: #2d2d2d;
-  --accent-color: #ffc66b;
-  --link-color: #1f78a2;
+  --background-color: #f5f2e9;
+  --text-color: #1c1c1c;
+  --accent-color: #ffc857;
+  --link-color: #003366;
   --white: #fff;
 }
 
@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   line-height: 1.6;
   color: var(--text-color);
@@ -27,7 +27,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
   line-height: 1.2;
   margin-bottom: 1rem;

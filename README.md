@@ -6,8 +6,8 @@ A minimalist, single-page website tribute to Nautical Aire.
 
 This website is designed as a visual tribute with a clean, minimalist aesthetic featuring:
 
-- Retro-futuristic typography with Orbitron for headings
-- Soft beach sand tones and ocean blue accents
+- Elegant typography with Playfair Display for headings and Inter for body text
+- Subtle sand tones with deep navy accents and retro gold highlights
 - Single-page scrolling layout
 - Responsive design for all devices
 
@@ -23,6 +23,7 @@ nauticalaire-site/
 ├── js/
 │   └── script.js
 ├── index.html
+├── NAFavicon.png
 ├── CNAME
 └── README.md
 ```
@@ -33,7 +34,9 @@ nauticalaire-site/
 2. Add your images to the `images/` directory:
    - `NA2.webp` - Main hero image
    - `NA1.webp` - Pool image for the legacy section
-3. Test the site locally by opening `index.html` in a web browser
+3. Add your favicon:
+   - `NAFavicon.png` - Site favicon image in the root directory
+4. Test the site locally by opening `index.html` in a web browser
 
 ## Deployment
 
